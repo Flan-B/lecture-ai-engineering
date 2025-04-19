@@ -36,7 +36,7 @@ st.subheader("テキスト入力")
 name = st.text_input("あなたの名前", "ゲスト")
 st.write(f"こんにちは、{name}さん！")
 
-dt_now = datetime.datetime.now()
+Date = datetime.datetime.now()
 st.write(f"今日は{Date}だよ")
 # ボタン
 # st.subheader("ボタン")
