@@ -1,0 +1,4 @@
+モデルのログ記録値 
+accuracy: 0.8379888268156425
+params: {'test_size': 0.25, 'data_random_state': 89, 'model_random_state': 3, 'n_estimators': 192, 'max_depth': 'None'}
+モデルを models\titanic_model.pkl に保存しました
